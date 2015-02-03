@@ -1,0 +1,3 @@
+Yeast cell-cycle mutant cdc21 is a temperature-sensitive thymidylate auxotroph.
+
+Genetic tests with the yeast cell-cycle mutant cdc21 isolated by Hartwell indicate that the CDC21 gene in yeast is the same as the TMP1 gene, whose mutant alleles confer an auxotrophic requirement for thymidine-5'-monophosphate (dTMP). Yeast strains carrying cdc21 can grow at 37 degrees in the presence of dTMP provided that they are premeable to this compound. The gene is shown to be linked to ade2 on Chr. XV, and a case of intragenic complementation between cdc21 and another tmp1 allele is reported.

@@ -1,0 +1,3 @@
+Synthesis of yeast histone 3 in an Escherichia coli cell-free system.
+
+The gene for histone H3 from the yeast Saccharomyces cerevisiae was placed under the control of the lac promoter of Escherichia coli by fusing the H3 coding sequence to that of beta-galactosidase. The gene was shown to be transcribed in vivo, but its product was not detected in cell extracts. However, synthesis of the fused polypeptide was detected in an in vitro transcription-translation system derived from E. coli. Proteolytic degradation of the newly synthesized polypeptides may be the cause of their apparent absence in the in vivo experiment.

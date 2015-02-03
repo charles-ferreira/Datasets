@@ -1,0 +1,3 @@
+Purification of the inducible alpha-agglutinin of S. cerevisiae and molecular cloning of the gene.
+
+The alpha-agglutinin responsible for mating type-specific agglutination of S. cerevisiae alpha-cells has been purified to homogeneity. The glycoprotein released from the cell surface under mild conditions has a relative molecular mass of 200 to 300 kDa as determined by SDS-gel electrophoresis. The protein moiety corresponds to 68.2 kDa. With an oligonucleotide corresponding to the N-terminal amino acid sequence, the alpha-agglutinin gene has been cloned and sequenced. From the DNA sequence, a protein of 631 amino acids with 12 potential N-glycosylation sites is predicted. The carboxy terminal one-third of the protein is not required for agglutination activity.

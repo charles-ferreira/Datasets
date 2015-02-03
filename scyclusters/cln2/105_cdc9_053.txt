@@ -1,0 +1,3 @@
+Saccharomyces cerevisiae cdc9, a structural gene for yeast DNA ligase which complements Schizosaccharomyces pombe cdc17.
+
+nt size="+1">

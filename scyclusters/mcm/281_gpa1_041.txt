@@ -1,0 +1,3 @@
+Genetic mapping of STE20 to the left arm of chromosome VIII.
+
+nt size="+1">

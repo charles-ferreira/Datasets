@@ -1,0 +1,3 @@
+Lithium in the mating response and cell cycle of Saccharomyces cerevisiae.
+
+Studies with Li+, an inhibitor of phosphoinositide metabolism, demonstrated that an early response of Saccharomyces cerevisiae to a-factor pheromone was negatively affected by this cation. This was monitored by the production of beta-galactosidase from a reporter construct containing the promoter region of the yeast STE3 gene and the coding region of the E. coli LacZ gene. Growth and progression through the cell cycle were also affected by Li+ and analysis of budded/unbudded ratios revealed that Li+ caused yeast cells to arrest in G1. These data provide support for the role of inositol phosphates in the mating response and cell cycle of Saccharomyces cerevisiae.

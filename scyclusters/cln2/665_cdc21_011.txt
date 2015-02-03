@@ -1,0 +1,3 @@
+Division delay and DNA degradation after mutagen treatment of the yeast, Saccharomyces cerevisiae.
+
+The treatment of the yeast mutant TMP1-1, which is capable of incorporating low levels of 3H-thymidine-5' - monophosphate with UV light and ethyl methane sulphonate resulted in division delay when cultures were reinnoculated into fresh medium. The initiation of cell division was accompanied by the degradation of up to 20% of the nuclear DNA fraction. The period of DNA degradation correlates closely with the time at which yeast cultures undergo mitotic recombination and appears to represent the degradation of DNA during a post-replication repair process.

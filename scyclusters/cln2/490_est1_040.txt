@@ -1,0 +1,3 @@
+ATP-dependent processivity of a telomerase activity from Saccharomyces cerevisiae.
+
+Extracts of Saccharomyces cerevisiae were shown to support the elongation of oligodeoxynucleotides with telomere-like sequences. The primer sequence specificity of this elongation activity, its incorporation of dG and dT but not dA or dC from the corresponding triphosphates, and its sensitivity to RNase A and RNase H are all consistent with it being a telomerase. In contrast to the reported properties of other telomerases, the presence of ATP enhances the efficiency of initiation of the yeast enzyme and improves its processivity. Hydrolysis of ATP appears to be unnecessary for the observed effects, as the beta,gamma-imido or the gamma-thio derivative of ATP is nearly as effective.

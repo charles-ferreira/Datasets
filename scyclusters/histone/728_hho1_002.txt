@@ -1,0 +1,3 @@
+Stochastic nucleosome positioning in a yeast chromatin region is not dependent on histone H1.
+
+To gain a better understanding of the function of the yeast histone H1, its role in nucleosome positioning was studied. With this objective in mind, we analyzed a chromatin region of the yeast Chromosome (Chr) IX, in which there are two closely packed open reading frames (ORFs), POT1 and YIL161w. This locus shows a regular ladder of 13 stochastically positioned nucleosomes, which is unaffected by the absence of the HHO1 gene. This suggests that histone H1 has no effect on nucleosome positioning in yeast.

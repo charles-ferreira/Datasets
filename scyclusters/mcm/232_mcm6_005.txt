@@ -1,0 +1,3 @@
+A novel human Mcm protein: homology to the yeast replication protein Mis5 and chromosomal location.
+
+Mcm proteins perform functions related to the regulation of eukaryotic genome replication. Previous work has shown that human cells contain at least five different Mcm proteins. We report now the amino acid sequence of an additional human Mcm protein, p105Mcm, and show that it is homologous to the Schizosaccharomyces pombe protein Mis5. We demonstrate that the gene for protein p105Mcm (HGMW-approved symbol, MCM6) is located on human chromosome 2q14-q21. All six known human Mcm proteins have now been sequenced and compared to their yeast counterparts.

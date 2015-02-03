@@ -1,0 +1,3 @@
+Identification of subunits of the anaphase-promoting complex of Saccharomyces cerevisiae.
+
+Entry into anaphase and proteolysis of B-type cyclins depend on a complex containing the tetratricopeptide repeat proteins Cdc16p, Cdc23p, and Cdc27p. This particle, called the anaphase-promoting complex (APC) or cyclosome, functions as a cell cycle-regulated ubiquitin-protein ligase. Two additional subunits of the budding yeast APC were identified: The largest subunit, encoded by the APC1 gene, is conserved between fungi and vertebrates and shows similarity to BIMEp from Aspergillus nidulans. A small heat-inducible subunit is encoded by the CDC26 gene. The yeast APC is a 36S particle that contains at least seven different proteins.

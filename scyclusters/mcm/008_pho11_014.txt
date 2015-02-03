@@ -1,0 +1,3 @@
+Genetic evidence of a new flocculation suppressor gene in Saccharomyces cerevisiae.
+
+The flocculation character in strain IM1-8b of Saccharomyces cerevisiae is controlled by a single and dominant gene shown to be allelic to FLO1. Such a gene has been both mitotically and meiotically mapped on the right arm of chromosome I at 4.7 cM from PHO11. The phenotype was suppressed by a single gene of wide distribution among non-flocculent strains (proposed as fsu3) that, however, was unable to suppress other FLO1 genes in other flocculent strains.

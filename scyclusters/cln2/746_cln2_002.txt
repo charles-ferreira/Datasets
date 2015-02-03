@@ -1,0 +1,3 @@
+Borrelidin inhibits a cyclin-dependent kinase (CDK), Cdc28/Cln2, of Saccharomyces cerevisiae.
+
+We identified borrrelidin, a member of macrolide antibiotic, as an inhibitor of a cyclin-dependent kinase of the budding yeast, Cdc28/Cln2. A 50% inhibition concentration (IC50) of borrelidin for Cdc28/Cln2 was 24 microM. In addition, borrelidin arrests both haploid and diploid cells in G1 phase at the point indistinguishable from that of alpha-mating pheromone, at concentrations not affecting the gross protein synthesis. Although the inhibition of CDK activity may not be a solo cause of the G1 arrest, our results indicate that borrelidin is a potential lead compound for developing novel CDK inhibitors of higher eukaryotes.

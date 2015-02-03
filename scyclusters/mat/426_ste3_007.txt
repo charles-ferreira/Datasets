@@ -1,0 +1,3 @@
+Homolog of a-factor receptor gene in Saccharomyces exiguus.
+
+Homologs of Saccharomyces cerevisiae STE3, a-factor receptor gene were detected from S. exiguus NFRI 3539 by low stringency Southern hybridization. This strain might have at least two types of homolog. One of these homologs, designated as e-STE3 was cloned. Its nucleotide sequence revealed 60% identity to STE3. The putative protein coding region consisted of 453 amino acid residues. The amino acid sequence identity between STE3 and e-STE3 was 62% and that of the N-terminal 303 amino acid residues considered to be the pheromone binding domain was 79%.

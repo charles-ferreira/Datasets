@@ -1,0 +1,3 @@
+Control of reorganization of the actin cytoskeleton by Rho family small GTP-binding proteins in yeast.
+
+Accumulating evidence indicates that Rho family small GTP-binding proteins regulate reorganization of the actin cytoskeleton. There are members of the Rho family in the budding yeast Saccharomyces cerevisiae, in which powerful molecular genetical approaches are applicable. Recent identification of regulators and targets of the Rho family members has enhanced our understanding of the regulation and modes of action of Rho family members in reorganization of the actin cytoskeleton.

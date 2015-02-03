@@ -1,0 +1,3 @@
+Regulation of CDC9, the Saccharomyces cerevisiae gene that encodes DNA ligase.
+
+We have cloned CDC9, the structural gene for Saccharomyces cerevisiae DNA ligase, and investigated its transcriptional regulation both as a function of cell cycle stage and after UV irradiation. The steady-state level of DNA ligase mRNA increases at least fourfold in late G1, after the completion of start but before S phase. This high level of CDC9 mRNA then decays with an apparent half-life of ca. 20 min and remains at a low basal level throughout the rest of the cell cycle. The accumulation of CDC9 mRNA in late G1 is dependent upon the completion of start but not the CDC7 and CDC8 functions. Exposure of cells to UV light elicits an eightfold increase in DNA ligase mRNA levels.

@@ -1,0 +1,3 @@
+Sexual response in Saccharomyces cerevisiae: alteration of enzyme activity in the glyoxalase system by mating factor.
+
+Glyoxalase I activity in alpha-type budding yeast of the Saccharomyces cerevisiae strain was increased by exposure of alpha-type cells to supernatant of a culture of a-type yeast cells, although glyoxalase II activity was decreased by the same treatment. The alteration of enzyme activity in the glyoxalase system occurred during the 30-60 min period after exposure of alpha-type cells to a-type culture supernatant. No change of glyoxalase I and II activities was found in the case of the alpha-type strain, S. cerevisiae VQ3 (alpha ste3-1), which is deficient in a-factor receptors.

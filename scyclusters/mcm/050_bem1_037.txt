@@ -1,0 +1,3 @@
+Cell polarity in yeast.
+
+Cell polarity is fundamental to the development and functioning of all organisms, from bacteria to humans. Examples of processes that involve cell polarity include the growth of axons, the interaction between T cells and their targets, the formation of buds by yeast, and sporulation in Bacillus spp. Recent work on budding yeast has provided valuable insights into the molecular machinery responsible for establishing and orienting cell polarity. Comparisons of the DNA sequences of genes involved in such pathways have raised the possibility that these mechanisms are conserved in all eukaryotic cells.

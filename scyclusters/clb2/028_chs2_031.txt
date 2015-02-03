@@ -1,0 +1,3 @@
+Chitin synthase 2 is essential for septum formation and cell division in Saccharomyces cerevisiae.
+
+Previous work led to the puzzling conclusion that chitin synthase 1, the major chitin synthase activity in Saccharomyces cerevisiae, is not required for synthesis of the chitinous primary septum. The mechanism of in vivo synthesis of chitin has now been clarified by cloning the structural gene for the newly found chitin synthase 2, a relatively minor activity in yeast. Disruption of the chitin synthase 2 gene results in the loss of well-defined septa and in growth arrest, establishing that the gene product is essential for both septum formation and cell division.

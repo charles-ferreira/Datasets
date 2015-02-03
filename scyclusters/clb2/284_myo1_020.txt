@@ -1,0 +1,3 @@
+In vivo phosphorylation of type II myosin in Saccharomyces cerevisiae.
+
+Phosphorylation of the myosin heavy chain has been shown to be a key regulatory mechanism of several non-muscle myosins. In this study we present evidence demonstrating that the yeast type II myosin heavy chain is phosphorylated in vivo. Phosphorylation of serine residues was confirmed by direct metabolic labeling with [32P] and by indirect immunostaining of phosphoserine with a specific monoclonal antibody. Loss of immunoreactivity in a targeted deletion of the 26 amino acid carboxyl terminal segment of the type II myosin heavy chain suggests that the phosphorylation occurs at one or more serine residues located between residues 1903 and 1928.

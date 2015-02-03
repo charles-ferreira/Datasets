@@ -1,0 +1,3 @@
+Bleomycin-induced DNA repair by Saccharomyces cerevisiae ATP-dependent polydeoxyribonucleotide ligase.
+
+In contrast to ligase-deficient (cdc9) Saccharomyces cerevisiae, which did not rejoin bleomycin-induced DNA breaks, ligase-proficient (CDC9) yeast cells eliminated approximately 90% of DNA breaks within 90 to 120 min after treatment. Experimental conditions restricted enzymatic removal of the unusual 3'-phosphoglycolate termini in DNA cleaved by bleomycin and involved doses producing equivalent numbers of DNA breaks or doses producing equivalent killing.

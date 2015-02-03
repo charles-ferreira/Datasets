@@ -1,0 +1,3 @@
+[Detection of nonhistone proteins, bound with regulatory elements of yeast rRNA genes, by UV-crosslinks in intact nuclei]
+
+We have studied the arrangement of DNA-binding proteins along yeast ribosomal non-transcribed spacer by UV-induced DNA-protein crosslinking on intact nuclei. We show binding of proteins with apparent Mw 120 and 30 kDa in promoter region, 120 kDa in enhancer region, 40 kDa in ARS. These proteins were identified preliminary as REB1 (promoter, enhancer), TFID (promoter), MCM3 (ARS). Good agreement between information supplied by this technics and literature data prove usefulness of our approach and make possibility for its wide appliance.

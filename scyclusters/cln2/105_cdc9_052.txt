@@ -1,0 +1,3 @@
+The cdc9 ligase joins completed replicons in baker's yeast.
+
+The drug hydroxyurea has been found to affect the conditional DNA ligase mutant cdc9 in the same way as a wild type. Specific concentrations inhibit the joining of completed replicons leading to a substantial accumulation of these molecules. Upon removal of hydroxyurea and further incubation of cdc9 cells at the permissive temperature the replicons joined together, while in sharp contrast at the restrictive temperature no such joining occurred. However, a revertant of cdc9 able to grow at the restrictive temperature was also able to join replicons under these conditions, so the cdc9 ligase must be responsible for the assembly of completed replicons.

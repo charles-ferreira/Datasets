@@ -1,0 +1,3 @@
+The REV2 gene of Saccharomyces cerevisiae: cloning and DNA sequence.
+
+The REV2 gene of Saccharomyces cerevisiae was cloned and sequenced; it contains an open reading frame of 1986 bp with a coding potential of 662 amino acids. Interruption of the chromosomal REV2 gene by integrating the URA3 gene coupled with partial deletion of the 3' terminal region produced viable haploid rev2 delta mutants. This indicates that the REV2 gene is non-essential for growth. The rev2 delta mutant is slightly more UV-sensitive than strains carrying various rev2 alleles (rev2-1, rev2x, rad5-1, rad5-8). The putative Rev2 protein is probably a globular protein containing a highly conserved nucleotide-binding site and two zinc-finger domains.

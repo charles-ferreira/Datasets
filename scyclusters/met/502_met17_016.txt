@@ -1,0 +1,3 @@
+A useful colony colour phenotype associated with the yeast selectable/counter-selectable marker MET15.
+
+Strains of Saccharomyces cerevisiae bearing null alleles of the met15 gene are methionine auxotrophs and become darkly pigmented in the presence of Pb2+ ions (Ono et al. (1991). Appl. Env. Microbiol. 57, 3183-3186). We describe the cloning of a useful fragment of the MET15 locus which complements both the methionine requirement and the colony colour phenotype. This colony colour phenotype is very useful for genetic screens and may be applicable for use in other yeast species. The combination of the size of MET15, along with its counter-selectability and the colour of met15 mutations make this perhaps the most versatile yeast genetic marker.

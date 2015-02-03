@@ -1,0 +1,3 @@
+A random mutagenesis procedure: application to the POL3 gene of Saccharomyces cerevisiae.
+
+To obtain a broad spectrum of mutations in the POL3 gene, we have developed an efficient random mutagenesis procedure. Partially extended, primed, single-stranded templates were used for forced misincorporation of non-complementary nucleotides, extended to completion and ligated. Linear fragments of the resulting amplified mutagenized library were then used to transform a Saccharomyces cerevisiae strain by the marker replacement technique. This procedure has proven to be very efficient when applied to the C-terminal moiety of POL3, yielding 24 temperature-sensitive mutants and six extragenic revertants.

@@ -1,0 +1,3 @@
+Activation of meiosis and sporulation by repression of the RME1 product in yeast.
+
+The ability of the yeast Saccharomyces cerevisiae to enter meiosis and sporulate is conferred by the a1-alpha 2 regulatory activity of the mating-type locus. We have cloned the RME1 gene and show that: the RME1 transcript is repressed by a1-alpha 2 in a/alpha cells; overexpression of the RME1 product in a/alpha cells blocks sporulation; and inactivation of RME1 by a null mutation constructed in vitro permits cells lacking a1-alpha 2 activity to sporulate. The RME1 product thus inhibits meiosis; the mating-type locus permits entry into meiosis by repression of RME1.

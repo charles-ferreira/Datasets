@@ -1,0 +1,3 @@
+The role of the yeast spindle pole body and the mammalian centrosome in regulating late mitotic events.
+
+Centrosomes of vertebrate cells and spindle pole bodies (SPBs) of fungi were first recognized through their ability to organize microtubules. Recent studies suggest that centrosomes and SPBs also have a function in the regulation of cell cycle progression, in particular in controlling late mitotic events. Regulators of mitotic exit and cytokinesis are associated with the SPB of budding and fission yeast. Elucidation of the molecular roles played by these regulators is helping to clarify the function of the SPB in controlling progression though mitosis.

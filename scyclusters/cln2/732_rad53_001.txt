@@ -1,0 +1,3 @@
+Role of the Saccharomyces cerevisiae Rad9 protein in sensing and responding to DNA damage.
+
+Eukaryotic cells have evolved surveillance mechanisms, known as DNA-damage checkpoints, that sense and respond to genome damage. DNA-damage checkpoint pathways ensure co-ordinated cellular responses to DNA damage, including cell cycle delays and activation of repair mechanisms. RAD9, from Saccharomyces cerevisiae, was the first damage checkpoint gene to be identified, although its biochemical function remained unknown until recently. This review examines briefly work that provides significant insight into how Rad9 activates the checkpoint signalling kinase Rad53.

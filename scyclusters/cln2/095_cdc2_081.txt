@@ -1,0 +1,3 @@
+Stably denatured regions in chromosomal DNA from the cdc2 Saccharomyces cerevisiae cell cycle mutant.
+
+DNA isolated from Saccharomyces cerevisiae strains carrying temperature-sensitive mutations in the CDC2 gene after incubation at the restrictive temperature contains multiple stably denatured regions 200 to 700 base pairs long. These regions are probably stabilized by a DNA-binding protein. They are found in both replicated and unreplicated portions of DNA molecules, suggesting that they are not an early stage in the initiation of DNA replication.

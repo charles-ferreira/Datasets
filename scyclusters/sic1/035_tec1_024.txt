@@ -1,0 +1,3 @@
+Saccharomyces cerevisiae TEC1 is required for pseudohyphal growth.
+
+Diverse eukaryotic organisms share developmental transcription factors with homologous DNA-binding domains. We showed that the developmental regulator AbaA, a member of the ATTS/TEA (AbaA, TEF-1, TEC1, Scalloped/TEF-1, TEC1, AbaA) class of transcription factors of the filamentous fungus Aspergillus nidulans, induces pseudohyphal development in the yeast Saccharomyces cerevisiae. The S. cerevisiae homologue of AbaA, TEC1p, is required for this morphological transition. We provide evidence that TEC1p functions in co-operation with STE12p to induce pseudohyphal development.

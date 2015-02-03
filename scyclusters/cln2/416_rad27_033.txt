@@ -1,0 +1,3 @@
+Expansion and length-dependent fragility of CTG repeats in yeast.
+
+Expansion of DNA trinucleotide repeats (TNRs) is the causative mutation in a growing number of human genetic diseases. Large expansions of a CTG tract were obtained and shown by genetic and physical assays to be length-dependent sites of chromosome breakage in Saccharomyces cerevisiae. Deletion of RAD27, which encodes a nuclease involved in Okazaki fragment processing, caused length-dependent destabilization of CTG tracts and a substantial increase in expansion frequency. The genetic assay described here can be used to evaluate other factors that induce TNR expansion or chromosome fragility in humans.

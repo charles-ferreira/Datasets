@@ -1,0 +1,3 @@
+Chitin synthetase distribution on the yeast plasma membrane.
+
+Purified, intact yeast plasma membranes were allowed to synthesize chitin, and the nascent chains of polysaccharide were observed either by the fluorescence produced with a brightener or by autoradiography. By both methods, it was concluded that the newly formed chitin emerged at many sites on each membrane. Thus, the synthetase that catalyzes chitin formation has a similar distribution. Since chitin synthetase is found mainly in a zymogen form, these results confirm the hypothesis that initiation of the chitinous primary septum of Saccharomyces occurs by localized activation of the uniformly distributed zymogen.

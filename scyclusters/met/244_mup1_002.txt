@@ -1,0 +1,3 @@
+MUP1, high affinity methionine permease, is involved in cysteine uptake by Saccharomyces cerevisiae.
+
+Using a mutant defective in cysteine uptake, which is resistant to a toxic analog of cysteine, allylglycine, we searched for a gene that complements the defect in cysteine uptake in a yeast genomic library and found a DNA fragment causing the recovery of cysteine uptake and sensitivity to allylglycine. The gene in the fragment was identical to MUP1, the high affinity methionine permease gene. We conclude that Mup1 is a major permease in cysteine uptake.

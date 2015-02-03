@@ -1,0 +1,3 @@
+Cooperative interaction of S. pombe proteins required for mating and morphogenesis.
+
+We isolated two S. pombe genes, scd1 and scd2, that are required for normal morphology and mating. scd1 and scd2 are homologous to CDC24 and BEM1, respectively, of S. cerevisiae. Epistasis analyses indicate that scd2 and ras1 converge upon scd1, which, in turn, interacts with cdc42sp, a RHO-like GTPase. Studies with the yeast two-hybrid system indicate that scd2 forms complexes with both scd1 and cdc42sp. Furthermore, biochemical studies indicate that the interaction between scd1 and scd2 is direct. The yeast two-hybrid data further suggest that scd1, scd2, cdc42sp, and ras1, in its GTP-bound state, act cooperatively to form a protein complex.

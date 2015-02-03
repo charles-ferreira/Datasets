@@ -1,0 +1,3 @@
+Study of the carbohydrate part of yeast acid phosphatase.
+
+It has been found that the carbohydrate part of acid phosphatase from yeast Saccharomyces cerevisiae consists of 16 N-glycosidically linked carbohydrate chains containing from 14 to about 150 mannose units. The presence of very small amounts of O-glycosidically linked chains was indicated. Acetolysis studies pointed to a high similarity in the structure of acid phosphatase and mannan carbohydrate chains. A new method is described for cross-linking of acid phosphatase specifically via carbohydrate chains. The possibility to cross-link the enzyme subunits intramolecularly is in accordance with the suggestion that carbohydrate chains play a role in subunit associations.

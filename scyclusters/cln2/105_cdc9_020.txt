@@ -1,0 +1,3 @@
+A Candida albicans gene encoding a DNA ligase.
+
+A DNA ligase-encoding gene (Ca CDC9) was cloned from Candida albicans by complementation of an ime-1 mutation in Saccharomyces cerevisiae. In this system, IME1 function was assayed using a S. cerevisiae strain with a ime2-promoter-lacZ gene fusion such that following transformation with a C. albicans genomic library, the presence of positive clones was indicated upon the addition of X-gal to sporulation media. Transforming fragments were subcloned in pGEM7 and sequenced. Sequence homology with several ATP-dependent DNA ligases from viruses, fission yeast, human, baker yeast and bacteria was observed.

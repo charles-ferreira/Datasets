@@ -1,0 +1,3 @@
+Yeast mutants with increased bacterial transposon Tn5 excision.
+
+Five complementing recessive mutations that exhibit increased bacterial transposon Tn5 precise excision in yeast Saccharomyces cerevisiae were obtained by ethylmethanesulfonate treatment. One of these mutations (tex1) was submitted to extensive genetic analysis. tex1 is a recessive temperature-sensitive mutation resulting in a 20-100-fold increase in Tn5 excision. It also has increased frequencies of ochre mutation reversion, of forward mutation to canavanine resistance, and loss of chromosome III or its right arm. The possible mechanism of tex1 effects is discussed.

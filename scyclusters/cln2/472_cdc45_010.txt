@@ -1,0 +1,3 @@
+Histone acetylation regulates the time of replication origin firing.
+
+The temporal firing of replication origins throughout S phase in yeast depends on unknown determinants within the adjacent chromosomal environment. We demonstrate here that the state of histone acetylation of surrounding chromatin is an important regulator of temporal firing. Deletion of RPD3 histone deacetylase causes earlier origin firing and concurrent binding of the replication factor Cdc45p to origins. In addition, increased acetylation of histones in the vicinity of the late origin ARS1412 by recruitment of the histone acetyltransferase Gcn5p causes ARS1412 alone to fire earlier. These data indicate that histone acetylation is a direct determinant of the timing of origin firing.

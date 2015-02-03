@@ -1,0 +1,3 @@
+Sulfur amino acid metabolism in Schizosaccharomyces pombe: occurrence of two O-acetylhomoserine sulfhydrylases and the lack of the reverse transsulfuration pathway.
+
+The fission yeast Schizosaccharomyces pombe has a unique organization of sulfur amino acid metabolism: it has two distinct O-acetylhomoserine sulfhydrylases (homocysteine synthases). Similar to Enterobacteriaceae, S. pombe lacks cystathionine beta-synthase and cystathionine gamma-lyase-the enzymes of the reverse transsulfuration pathway, by which methionine is readily metabolized to cysteine-a likely effector in the sulfur metabolite repression system. Consequently no repression of sulfate assimilation is observed when methionine is added to the growth medium.

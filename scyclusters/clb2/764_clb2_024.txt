@@ -1,0 +1,3 @@
+Proteasome and cell cycle. Evidence for a regulatory role of the protease on mitotic cyclins in yeast.
+
+The cell cycle of eukaryotic cells is strictly regulated. This regulation is performed by a serine/threonine kinase. The different functions of this kinase in the cell cycle are modulated by different cyclins, which fluctuate in concentration ('cycle') during the different stages of the cell cycle. Using yeast as a model organism we show here that the activity of the multifunctional proteinase, the proteasome, is directly connected to the function of the mitotic cyclin Clb2. Our studies indicate that the proteasome is the proteolytic regulator of this cyclin and thus a central regulator of the cell cycle.

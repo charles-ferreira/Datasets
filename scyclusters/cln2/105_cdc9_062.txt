@@ -1,0 +1,3 @@
+Evidence that a single DNA ligase is involved in replication and recombination in yeast.
+
+The possible existence in yeast of different nuclear DNA ligase enzymes led us to ask whether induced recombination (gene conversion) involves the same ligase as that involved in DNA replication. The conditional cdc9 mutant is known to be defective, under restrictive conditions, in the rejoining of Okazaki fragments. We show here that under the same conditions, x-ray-induced convertants within the cdc9 locus are produced with kinetics indicating that most, if not all, of the conversion events require the participation of the cdc9-controlled ligase. Thus, the same DNA ligase is involved in DNA replication and in induced gene conversion.

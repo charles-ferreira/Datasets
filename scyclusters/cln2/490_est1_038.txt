@@ -1,0 +1,3 @@
+Telomerase in yeast.
+
+The ribonucleoprotein enzyme telomerase synthesizes telomeric DNA by copying an internal RNA template sequence. The telomerase activities of the yeasts Saccharomyces castellii and Saccharomyces cerevisiae--with regular and irregular telomeric sequences, respectively--have now been identified and characterized. The S. cerevisiae activity required the telomerase RNA gene TLC1 but not the EST1 gene, both of which are required for normal telomere maintenance in vivo. This activity exhibited low processivity and produced no regularly repeated products. An inherently high stalling frequency of the S. cerevisiae telomerase may account for its in vitro properties and for the irregular telomeric sequences of this yeast.

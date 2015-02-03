@@ -1,0 +1,3 @@
+The DNA repair capability of cdc9, the Saccharomyces cerevisiae mutant defective in DNA ligase.
+
+nt size="+1">

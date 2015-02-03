@@ -1,0 +1,3 @@
+The yeast type II myosin heavy chain: analysis of its predicted polypeptide sequence.
+
+We have completed the nucleotide sequence of the yeast MYO1 gene and deduced its amino acid sequence. The gene is 5553 bp long and contains no introns. Analysis of the sequence, as well as its comparison with other myosins, demonstrate that the yeast protein is a type II myosin heavy chain with characteristic head and tail regions. The latter domain contains six proline residues in two clusters of three, at approximately two thirds from the start of the gene.

@@ -1,0 +1,3 @@
+Being at the right place at the right time: the role of nuclear transport in dynamic transcriptional regulation in yeast.
+
+As a consequence of compartmentalization in eukaryotic cells, the transcriptional response to extracellular stimuli requires signals to be transmitted from the cytoplasm to the nucleus. Thus, nuclear import and export of signal transduction and transcription factors provide an important level of transcriptional control in eukaryotes. Recent investigations have illustrated the importance of this control for dynamic gene expression, as will be discussed on transcriptional activators and repressors (Mac1p, Mig1p, Msn2p/4p, Swi5p) and protein kinases (Hog1p, Sty1/Spc1, protein kinase A).

@@ -1,0 +1,3 @@
+Coupling of mitosis to the completion of S phase through Cdc34-mediated degradation of Wee1.
+
+The dependence of mitosis on the completion of the period of DNA replication in the cell cycle [synthesis (S) phase] ensures that chromosome segregation occurs only after the genome has been fully duplicated. A key negative regulator of mitosis, the protein kinase Wee1, was degraded in a Cdc34-dependent fashion in Xenopus egg extracts. This proteolysis event was required for a timely entrance into mitosis and was inhibited when DNA replication was blocked. Therefore, the DNA replication checkpoint can prevent mitosis by suppressing the proteolysis of Wee1 during S phase.

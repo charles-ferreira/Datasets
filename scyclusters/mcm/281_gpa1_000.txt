@@ -1,0 +1,3 @@
+The yeast G protein alpha subunit Gpa1 transmits a signal through an RNA binding effector protein Scp160.
+
+In yeast Saccharomyces cerevisiae the G protein betagamma subunits (Ste4/Ste18) have long been known to transmit the signal required for mating. Here we demonstrate that GTPase-deficient mutants of Galpha (Gpa1) directly activate the mating response pathway. We also show that signaling by activated Gpa1 requires direct coupling to an RNA binding protein Scp160. These findings suggest an additional role for Gpa1 and reveal Scp160 as a component of the mating response pathway in yeast.

@@ -1,0 +1,3 @@
+The fission yeast cdc19+ gene encodes a member of the MCM family of replication proteins.
+
+We have cloned and characterized the fission yeast cdc19+ gene. We demonstrate that it encodes a structural homologue of the budding yeast MCM2 protein. In fission yeast, the cdc19+ gene is constitutively expressed, and essential for viability. Deletion delays progression through S phase, and cells arrest in the first cycle with an apparent 2C DNA content, with their checkpoint control intact. The temperature-sensitive cdc19-P1 mutation is synthetically lethal with cdc21-M68. In addition, we show by classical and molecular genetics that cdc19+ is allelic to the nda1+ locus. We conclude that cdc19p plays a potentially conserved role in S phase.

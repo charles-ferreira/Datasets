@@ -1,0 +1,3 @@
+Constitutive mutants in the yeast pheromone response: ordered function of the gene products.
+
+The alpha factor pheromone inhibits the division of yeast a cells. A general method was developed for isolating mutants that exhibit constitutive activation of the pheromone response pathway. A dominant allele of the STE4 locus was recovered in addition to recessive mutations in the SCG1 gene. SCG1 and STE4 are known to encode G alpha and G beta homologs, respectively. Analysis of double mutants suggests that the STE4 gene product functions after the SCG1 product but before the STE5 product.

@@ -1,0 +1,3 @@
+Cell cycle control of yeast filamentous growth.
+
+Great progress has been made toward dissecting the signal transduction pathways and transcriptional outputs regulating yeast pseudohyphal growth. However, the mechanism underlying polarized morphogenesis in filamentous growth remains unclear. A synthesis of the data suggests that the ultimate target of these pathways is to repress the activity of the mitotic cyclin Clb2 as an antagonist of polarized growth. Here, we discuss how this cell cycle regulation, in concert with control of transcription, ubiquitin-dependent proteolysis and cytoskeletal polarity, may mediate the switch to filamentous growth.

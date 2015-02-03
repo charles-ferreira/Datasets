@@ -1,0 +1,3 @@
+Bridge-building between mathematical theory and molecular biology: the REV2 gene as paradigm.
+
+The DNA damage-repair theory of R.H. Haynes anticipated the possibility of dose-dependent repair processes. The mathematical formalism developed by Haynes and coworkers on the basis of this theory provided tools to probe for the existence of inducible components of mutation or recombination by analysis of dose-response curves. Subsequently, we found that biological and molecular analysis of the Saccharomyces cerevisiae REV2 gene supported the validity of the postulates derived from the mathematical analysis. In this article, we briefly review the foregoing and summarize evidence that the REV2 gene product might function in DNA damage-inducible repair and mutation processes.

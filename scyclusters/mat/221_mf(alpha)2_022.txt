@@ -1,0 +1,3 @@
+Antibodies against the alpha-factor pheromone of Saccharomyces cerevisiae.
+
+The mating pheromone of baker's yeast, the alpha-factor, is a dodeka-/tridecapeptide, which is not antigenic by itself. It was coupled to succinylated thyroglobulin by the carbodiimide procedure to facilitate selective coupling of the alpha-factor mainly by its N-terminal region. Antibodies against this conjugate were raised in rabbits. After selective precipitation of the rabbit antiserum with succinylated carrier prior to the radial double diffusion test (Ouchterlony) specific antibodies against the coupled alpha-factor could be detected.

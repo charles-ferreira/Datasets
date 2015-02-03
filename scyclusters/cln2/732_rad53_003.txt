@@ -1,0 +1,3 @@
+ATM-related Tel1 associates with double-strand breaks through an Xrs2-dependent mechanism.
+
+In budding yeast, TEL1 encodes a protein closely related to ATM. Xrs2 is an Nbs1 homolog and forms a complex with Mre11 and Rad50. We show here that Tel1 associates with double-strand breaks (DSBs) through a mechanism dependent on the C terminus of Xrs2. Although Xrs2 is required for the DNA degradation at DSBs, the C-terminal Xrs2 truncation does not affect the degradation. Tel1 and the C terminus of Xrs2 are similarly involved in cell survival and Rad53 phosphorylation after DNA damage. Our findings suggest that the Tel1 association with DNA lesions is required for the activation of DNA damage responses.

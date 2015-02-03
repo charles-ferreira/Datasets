@@ -1,0 +1,3 @@
+A highly conserved kinase is an essential component for stress tolerance in yeast and plant cells.
+
+Osmotic stress (drought, salt stress) is a major limiting factor for crop productivity in the world. Because cellular responses to osmotic stress are thought to be conserved in eukaryotes and because yeast is much more amenable than plants to genetic research, a functional strategy has been performed to identify limiting steps in osmotolerance of plants based on the complementation of yeast with a plant library. A new plant cDNA that encodes a functional homologue of the yeast Dbf2 kinase enhances salt, drought, cold, and heat tolerance upon overexpression in yeast as well as in transgenic plant cells.

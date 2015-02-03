@@ -1,0 +1,3 @@
+The mutator mut7-1 of Saccharomyces cerevisiae.
+
+The mut7-1 mutant of Saccharomyces cerevisiae is a cell-division-cycle mutant, exhibiting temperature-sensitive lethality and enhancement of mutator activity with increases in temperature. The base-sequence alterations in mutants arising in a mut7-1 background differed from the control by there being a higher transversion/transition ratio and by the much increased production of multi-base deletions. The deletions were, in every instance, associated with repeated oligonucleotide sequences (3-8 bases in length), where one of the two sequences was removed during the deletion process. The mutant mut7-1 failed to complement with cdc2, the temperature-sensitive mutant of the locus which encodes DNA polymerase III (delta).

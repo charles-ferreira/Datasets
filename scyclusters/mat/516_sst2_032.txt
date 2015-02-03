@@ -1,0 +1,3 @@
+A new family of regulators of G-protein-coupled receptors?
+
+Organisms as diverse as fungi and humans use G-protein-coupled receptors to control signal transduction pathways responsive to various hormones, neuroregulatory molecules and other sensory stimuli. Continual stimulation of these receptors often leads to their desensitization, which is mediated in part by the consecutive actions of two families of proteins--the G-protein-coupled receptor kinases, which phosphorylate the agonist-occupied receptors, and the arrestin proteins, which subsequently bind to the receptors. We now present evidence that a group of proteins--the G0S8/Sst2p family--may be a third class of receptor-desensitizing factors.

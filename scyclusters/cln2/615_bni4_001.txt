@@ -1,0 +1,3 @@
+The DNA sequence of cosmid 14-5 from chromosome XIV reveals 21 open reading frames including a novel gene encoding a globin-like domain.
+
+In this paper is described the DNA sequence of cosmid 14-5 from chromosome XIV of Saccharomyces cerevisiae. The sequence is 38 855 bases long and contains 21 open reading frames (ORFs) plus three internal ORFs. Six ORFs correspond to known yeast genes (SLA2, ZWF1, BLH1, KEX2, SIN4 and URE2); two other ORFs had already been sequenced because they are adjacent to known genes; the remaining 12 ORFs are novel genes. Of these, one ORF (NII42) is particularly interesting since it shows a significant similarity to mammalian globin. Another ORF (N1254) displays two zinc finger motifs as well as a DNAJ motif.

@@ -1,0 +1,3 @@
+Agglutination and mating activity of the MF alpha 2-encoded alpha-factor analog in Saccharomyces cerevisiae.
+
+The MF alpha 2-encoded Asn-5,Arg-7 alpha-factor-like peptide has been shown shown to have similar activity to Gln-5,Lys-7 alpha-factor in morphogenesis and growth arrest studies (S. Raths, P. Shenbagamurthi, F. Naider, and J. M. Becker, J. Bacteriol. 168:1468-1471, 1986). We tested the Asn-5,Arg-7 peptide in agglutination and mating assays and found that its activity was similar to or slightly less than that of the Gln-5,Lys-7 alpha-factor. The Asn-5,Arg-7 alpha-factor-like peptide is thus the most active analog of the Gln-5,Lys-7 alpha-factor known.

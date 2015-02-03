@@ -1,0 +1,3 @@
+Degradation of proliferating cell nuclear antigen by 26S proteasome in rice (Oryza sativa L.).
+
+To study whether metabolic control of proliferating cell nuclear antigen (PCNA) during the cell cycle is similar to that of associated protein factors, two-hybrid analysis with PCNA from rice (Oryza sativa L. cv. Nipponbare) was performed. PCNA interacted with rice Rpt6, which is the ATPase subunit of 26S proteasome, both in vitro and in vivo, and the degradation of PCNA was disrupted by the proteasome in vivo. The tissue-specific expression pattern of the transcripts of Rpt6 and PCNA suggested that the rice proteasome played important roles in DNA replication involving PCNA. These findings indicate a proteasome-dependent degradation of PCNA.

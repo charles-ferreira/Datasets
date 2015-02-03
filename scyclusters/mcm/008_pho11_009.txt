@@ -1,0 +1,3 @@
+Mapping of the FLO5 gene in saccharomyces cerevisiae.
+
+The FLO5 gene has been assigned to chromosomes I and VIII in Saccharomyces cerevisiae. According to the results obtained, flocculation of strain STX347-ID (reported as strain FLO5) is the result of two different genes: one of them is allelic to the previously reported FLO1 and located at 4.7 cM from PHO11 and 37 cM from ADE1 on chromosome I. The other was mapped on chromosome VIII at 36.8 cM from PET3 and 30.5 cM from FUR1. This second gene generated a constitutive flocculation phenotype that was not under the control of the fsu3 suppressor. The latter has been reported to suppress certain FLO1 genes.

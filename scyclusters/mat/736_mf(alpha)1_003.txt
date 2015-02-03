@@ -1,0 +1,3 @@
+Integration of glucoamylase gene from Aspergillus niger into Saccharomyces cerevisiae genome and its stable expression.
+
+Starch digestible delta-integrants were constructed by integrative transformation of a linear YIP plasmid carrying Aspergillus niger glucoamylase cDNA under the control of the MF alpha 1 promoter and its prepro signal and the delta sequence of the Ty element from yeast. The integration of glucoamylase cDNA into Saccharomyces cerevisiae was identified by Southern analysis. The secreted glucoamylase activity of integrants in the medium with soluble starch as a carbon source reached 2.5 u/ml. After ten times of successive transfers in a nonselective medium, the activity of secreted glucoamylase of integrant was approximately at its original level.

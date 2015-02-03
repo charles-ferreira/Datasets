@@ -1,0 +1,3 @@
+Role of glycosylation in secretion of yeast acid phosphatase.
+
+The minimal glycosylation requirement for acid phosphatase secretion and activity was investigated using tunicamycin, an inhibitor of protein glycosylation, and a yeast mutant defective in the synthesis of oligosaccharide outer chains. The results obtained show that outer chain addition is not essential for secretion of active enzyme and that only 4 core chains, out of 8 normally attached to a protein subunit, are sufficient for enzyme transport to the periplasmic space. Enzyme forms with less than 4 chains were retained in membranes of endoplasmic reticulum. Secreted underglycosylated enzyme forms are partially or completely inactive.

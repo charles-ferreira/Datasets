@@ -1,0 +1,3 @@
+Utilization by Saccharomyces cerevisiae of 5'-methylthioadenosine as a source of both purine and methionine.
+
+Cells of the yeast Saccharomyces cerevisiae are normally impermeable to the purine nucleosides adenosine and 5'-deoxy-5'-methylthioadenosine (MTA), a product of polyamine biosynthesis. cordycepin-sensitive, adenosine-utilizing strains of S. cerevisiae were able to use MTA to fulfill an auxotrophic requirement for purine. Cordycepin-sensitive strains carrying a met5 mutation were also able to use MTA as a source of methionine. These MTA-utilizing strains of S. cerevisiae should be useful for metabolic studies of the fate of MTA.

@@ -1,0 +1,3 @@
+Sensitivity of a S. cerevisiae RAD27 deletion mutant to DNA-damaging agents and in vivo complementation by the human FEN-1 gene.
+
+We have investigated the sensitivity to DNA-damaging agents of a strain of Saccharomyces cerevisiae containing a deletion of the RAD27 gene. The mutant strain is sensitive to a number of alkylating agents that modify DNA at a variety of positions, including one that produces primarily phosphotriesters. In contrast, the mutant strain is not sensitive to the oxidizing agent hydrogen peroxide. The introduction of a plasmid containing the FEN-1 gene (the human ortholog of the RAD27 gene) can substantially complement the sensitivity to alkylating agents observed in the mutant strain.

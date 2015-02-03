@@ -1,0 +1,3 @@
+Improved assay and mechanism of the reaction catalyzed by the chitin synthase from Saccharomyces cerevisiae.
+
+1. An improved filtration method is introduced to perform kinetic investigations on the chitin synthase reaction. This method is especially suited for the assay of a large number of samples necessary in enzyme kinetic studies. 2. From initial rate data the possibility could be excluded that the two-substrate reactions occurs by a random or a ping-pong mechanism. 3. Investigations of product inhibition exclude a rapid random mechanism but favour an ordered mechanism with UDP-N-acetylglucosamine as the first substrate. 4. This result was confirmed by isotope exchange studies.

@@ -1,0 +1,3 @@
+Inactivation of MET10 in brewer's yeast specifically increases SO2 formation during beer production.
+
+Sulfite is widely used as an antioxidant in food production. In beer brewing, sulfite has the additional role of stabilizing the flavor by forming adducts with aldehydes. Inadequate amounts of sulfite are sometimes produced by brewer's yeasts, so means of controlling the sulfite production are desired. In Saccharomyces yeasts, MET10 encodes a subunit of sulfite reductase. Partial or full elimination of MET10 gene activity in a brewer's yeast resulted in increased sulfite accumulation. Beer produced with such yeasts was quite satisfactory and showed increased flavor stability.

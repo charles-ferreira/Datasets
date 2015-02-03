@@ -1,0 +1,3 @@
+Cloning and characterization of the Schizosaccharomyces pombe DNA ligase gene CDC17.
+
+The Schizosaccharomyces pombe CDC17 gene has been cloned by complementation of the cdc17 mutant coding for temperature-sensitive DNA ligase. An allele-specific suppressor active only in the presence of a high osmotic pressure was also isolated. The cloned CDC17 gene failed to complement the analogous DNA ligase mutation, cdc9, in Saccharomyces cerevisiae, although the reverse complementation was successful [Barker and Johnston, Eur. J. Biochem. 134 (1983) 315-319]. The CDC17 gene specifies a 2.8-kb transcript.

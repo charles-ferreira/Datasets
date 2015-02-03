@@ -1,0 +1,3 @@
+Possible involvement of the yeast POLIII DNA polymerase in induced gene conversion.
+
+In Saccharomyces cerevisiae, three different DNA polymerase complexes, POLI, POLII and POLIII, are known to be involved in DNA replication. The catalytic subunit of POLIII is encoded by the essential CDC2 gene. The existence of different thermosensitive noncomplementing mutants of CDC2 offers the possibility of using a genetic approach to investigate the involvement of POLIII in induced gene conversion. When cdc2 heteroallelic cells were irradiated and incubated under restrictive conditions, almost no induction of thermoresistant cells could be detected, suggesting an essential role for POLIII in mitotic gene conversion events.

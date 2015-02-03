@@ -1,0 +1,3 @@
+Activation of dormant origins of DNA replication in budding yeast.
+
+Eukaryotic genomes often contain more potential replication origins than are actually used during S phase. The molecular mechanisms that prevent some origins from firing are unknown. Here we show that dormant replication origins on the left arm of budding yeast chromosome III become activated when both passive replication through them is prevented and the Mec1/Rad53 checkpoint that blocks late-origin firing is inactivated. Under these conditions, dormant origins fire very late relative to other active origins. These experiments show that some dormant replication origins are competent to fire during S phase and that passage of a replication fork through such origins can inactivate them.

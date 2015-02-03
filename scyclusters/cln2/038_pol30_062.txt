@@ -1,0 +1,3 @@
+ATP-independent loading of the proliferating cell nuclear antigen requires DNA ends.
+
+The proliferating cell nuclear antigen (PCNA) is a processivity subunit for eukaryotic DNA polymerase delta. We present biochemical evidence that yeast PCNA likely adopts a toroidal structure containing an inside cavity through which double-stranded DNA slides. A comparative study of DNA replication reactions on circular versus linear model substrates shows that PCNA can only interact productively with DNA polymerase delta if the substrate is linear. This combined with the observation that a large molar excess of PCNA is required for maximal stimulatory activity is consistent with a model in which PCNA slips onto the end of the DNA in an ATP-independent manner.

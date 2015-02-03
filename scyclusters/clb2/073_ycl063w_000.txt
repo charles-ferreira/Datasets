@@ -1,0 +1,3 @@
+Yeast vacuole inheritance and dynamics.
+
+The vacuole/lysosome of the budding yeast Saccharomyces cerevisiae is actively divided between mother and daughter cells. Vacuole inheritance initiates early in the cell cycle and ends in G2, just prior to nuclear migration. The process begins with a portion of the vacuole extending into the emerging bud. This tubular-vesicular entity, the segregation structure, enables continued exchange of vacuole contents between mother and daughter vacuoles. Genetic, biochemical, and cytological analyses of vacuole inheritance have provided insight into the molecular basis of membrane movement, the spatial and temporal control of organelle transport, and the molecular basis of membrane fusion and fission.

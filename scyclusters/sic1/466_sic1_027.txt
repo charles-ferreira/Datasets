@@ -1,0 +1,3 @@
+Roles of ubiquitin-mediated proteolysis in cell cycle control.
+
+Selective degradation of cyclins, inhibitors of cyclin-dependent kinases and anaphase inhibitors is responsible for several major cell cycle transitions. The degradation of these cell cycle regulators is controlled by the action of ubiquitin-protein-ligase complexes, which target the regulators for degradation by the 26S proteasome. Recent results indicate that two types of multisubunit ubiquitin ligase complexes, which are connected to the protein kinase regulatory network of the cell cycle in different ways, are responsible for the specific and programmed degradation of many cell cycle regulators.

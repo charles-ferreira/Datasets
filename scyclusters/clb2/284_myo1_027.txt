@@ -1,0 +1,3 @@
+The yeast MYO1 gene encoding a myosin-like protein required for cell division.
+
+A yeast gene MYO1 that contains regions of substantial sequence homology with the nematode muscle myosin gene (unc54) has been isolated and sequenced. Although the disruption of MYO1 is not lethal, it leads to aberrant nuclear migration and cytokinesis. The 200-kd myosin heavy chain-like protein, the product of MYO1, cross-reacts with anti-nematode myosin heavy chain IgG and is present in wild-type strains but not in strains carrying the disrupted gene. Instead, a truncated polypeptide with a molecular mass of 120 kd can be detected in some myo1 mutants.

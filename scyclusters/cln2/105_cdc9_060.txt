@@ -1,0 +1,3 @@
+Enhanced mitotic recombination in a ligase-defective mutant of the yeast Saccharomyces cerevisiae.
+
+The temperature-sensitive Saccharomyces cerevisiae cell cycle mutant cdc9 is defective in DNA ligase, and the DNA synthesized at the restrictive temperature contains many single-strand breaks. We find that holding a diploid homozygous for cdc9 at the restrictive temperature and then plating cells at the permissive temperature gives rise to increased intragenic and intergenic recombination. In the latter case, recombinants signaled by the ade2 locus rise to about 4% of the survivors after 6 hr of incubation at the restrictive temperature. We propose that the single-strand breaks left in DNA synthesized at the restrictive temperature may lead to recombination.

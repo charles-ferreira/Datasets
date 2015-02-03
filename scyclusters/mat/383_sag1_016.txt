@@ -1,0 +1,3 @@
+Alpha-agglutinin expression in Saccharomyces cerevisiae.
+
+A polyclonal antiserum raised against purified alpha-agglutinin was made specific for alpha-agglutinin after adsorption with a cells. The adsorbed antiserum identified alpha-agglutinin peptides on Western blots and bound to cell surface alpha-agglutinin, inhibiting the binding of alpha cells to a cells. Using the antibody, we have determined that 1) the surface distribution of alpha-agglutinin on alpha cells is polar, 2) about 5 x 10(4) molecules/cell are constitutively expressed on strain X2180-1B (alpha) cells, and 3) treatment of alpha cells with the sex pheromone a-factor causes an increase in cell surface alpha-agglutinin, consistent with the a-factor induced increase in cell agglutinability.

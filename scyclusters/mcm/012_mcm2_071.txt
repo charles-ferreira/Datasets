@@ -1,0 +1,3 @@
+The MCM2-3-5 proteins: are they replication licensing factors?
+
+DNA replication occurs only once in each normal mitotic cell cycle. To explain this strict control, a 'licensing factor' was proposed to enter the nucleus periodically as the nuclear envelope disintegrates and reassembles at the end of mitosis. Inactivation of licensing factor immediately following initiation of DNA synthesis would prevent reinitiation until after the next mitosis. The MCM2-3-5 proteins of Saccharomyces cerevisiae may be yeast's equivalent of licensing factor: they are present in the nucleus only between M and S phase, bind to chromatin and are important for the initiation of DNA replication.

@@ -1,0 +1,3 @@
+Cdc13p: a single-strand telomeric DNA-binding protein with a dual role in yeast telomere maintenance.
+
+The CDC13 gene has previously been implicated in the maintenance of telomere integrity in Saccharomyces cerevisiae. With the use of two classes of mutations, here it is shown that CDC13 has two discrete roles at the telomere. The cdc13-2est mutation perturbs a function required in vivo for telomerase regulation but not in vitro for enzyme activity, whereas cdc13-1ts defines a separate essential role at the telomere. In vitro, purified Cdc13p binds to single-strand yeast telomeric DNA. Therefore, Cdc13p is a telomere-binding protein required to protect the telomere and mediate access of telomerase to the chromosomal terminus.
